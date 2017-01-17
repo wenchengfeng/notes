@@ -11,11 +11,10 @@ Contents:
 .. toctree::
    :maxdepth: 2
    
+   00-preface
+   01-the-way-of-the-program
    
-	00-preface
-	01-the-way-of-the-program
- 
-
+   
 Indices and tables
 ==================
 
