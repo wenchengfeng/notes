@@ -9,10 +9,11 @@
 Contents:
 
 .. toctree::
-   :maxdepth: 1
-
-    00-preface
-    01-the-way-of-the-program
+   :maxdepth: 2
+   
+   
+	00-preface
+	01-the-way-of-the-program
  
 
 Indices and tables
