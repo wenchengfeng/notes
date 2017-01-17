@@ -11,7 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
    
-   00-preface
+   00_intro
    01-the-way-of-the-program
    
    
