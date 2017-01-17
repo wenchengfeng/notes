@@ -13,8 +13,7 @@ Contents:
 
 	00-preface
     01-the-way-of-the-program
-    02-variables-expressions-and-statements
-    03-functions
+ 
 
 Indices and tables
 ==================
