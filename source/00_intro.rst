@@ -16,8 +16,8 @@
 
 --------------
 
-无处不在的宏观经济
-------------------
+问题：无处不在的宏观经济
+------------------------
 
 You may not know it, but your everyday life is filled with
 macroeconomics in action.
@@ -42,23 +42,8 @@ macroeconomics in action.
 
 --------------
 
-数据
-----
-
-.. code:: 
-
-    \begin{itemize}
-      \item 宏观经济影响整个社会的福利水平
-    \begin{itemize}
-      \item 例如，失业和社会问题——失业率每增加1个百分点，将会引起:
-      \item 自杀人数增加920
-      \item 谋杀增加650起
-      \item 4000人 发生精神疾患
-      \item 3300人被关进监狱
-      \item 37,000 人死亡
-      \item 暴力事件和无家可归者增加\footnote{Barry Bluestone and Bennett Harrison, The Deindustrialization of America (New York:  Basic Books, 1982), Chapter 3}
-    \end{itemize}
-    \end{itemize}
+数据：宏观与我们生活息息相关
+----------------------------
 
 -  宏观经济影响整个社会的福利水平。例如，失业和社会问题——失业率每增加1个百分点，将会引起:
 
@@ -77,3 +62,6 @@ macroeconomics in action.
       Books, 1982), Chapter 3}
 
 -  宏观经济影响你本人的福利水平。例如，失业和收入增长
+
+-  .. figure:: /Users/fengwencheng/Documents/notes/source/figures/0102.png
+      :alt:
