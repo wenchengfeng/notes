@@ -27,5 +27,5 @@
 
 -  2014 年人口:136,782 万人(13.68 亿)
 
-.. figure:: /Users/fengwencheng/Documents/notes/source/figures/0106.jpg
+.. figure:: figures/0106.jpg
    :alt:
