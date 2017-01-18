@@ -12,7 +12,7 @@ Contents:
    :maxdepth: 2
    
    00_intro
-   01-the-way-of-the-program
+   01_Measurement
    
    
 Indices and tables
