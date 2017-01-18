@@ -65,5 +65,5 @@ macroeconomics in action.
 
 -  宏观经济影响你本人的福利水平。例如，失业和收入增长
 
--  .. figure:: /Users/fengwencheng/Documents/notes/source/figures/0102.png
+-  .. figure:: /figures/0102.png
       :alt:
