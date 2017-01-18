@@ -72,4 +72,9 @@ macroeconomics in action.
    -  .. figure:: /figures/0103.png
          :alt: 
 
-.. |image0| image:: /figures/0102.png
+宏观经济影响政治和时事事件，如果美国大选选情
+
+.. figure:: /figures/election.png
+   :alt: 
+
+.. |image0| image:: /Users/fengwencheng/Documents/notes/source/figures/0102.png
