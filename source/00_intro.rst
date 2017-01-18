@@ -47,23 +47,29 @@ macroeconomics in action.
 
 -  宏观经济影响整个社会的福利水平。例如，失业和社会问题——失业率每增加1个百分点，将会引起:
 
-   -   自杀人数增加920
+   -  自杀人数增加920
 
-   -   谋杀增加650起
+   -  谋杀增加650起
 
-   -   4000人 发生精神疾患
+   -  4000人 发生精神疾患
 
-   -   3300人被关进监狱
+   -  3300人被关进监狱
 
-   -   37,000 人死亡
+   -  37,000 人死亡
 
-   -   暴力事件和无家可归者增加
+   -  暴力事件和无家可归者增加
 
       -  数据来源：Barry Bluestone and Bennett Harrison, The
          Deindustrialization of America (New York: Basic Books, 1982),
          Chapter 3
 
--  宏观经济影响你本人的福利水平。例如，失业和收入增长
+-  宏观经济影响个人的福利水平。例如，
 
--  .. figure:: /figures/0102.png
-      :alt:
+   -  失业和收入增长\ |image0|
+
+   -  利率和房贷利息
+
+   -  .. figure:: /figures/0103.png
+         :alt: 
+
+.. |image0| image:: /figures/0102.png
