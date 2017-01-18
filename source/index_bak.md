@@ -13,7 +13,7 @@ Contents:
    :maxdepth: 2
 
    00_intro
-   01_Measurement
+   01_measurement
 
 
 Indices and tables
