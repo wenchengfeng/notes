@@ -1,7 +1,3 @@
-.. role:: math(raw)
-   :format: html latex
-..
-
 Ch7 The Labor Market
 ====================
 
@@ -37,12 +33,12 @@ Tour of the Labor Market
 
 -  失业率unemployment rate：劳动力中没有被雇佣的比率
 
--  :math:`Unemployment~ rate =\frac{ unemployed}{labor~force}`
+-  \:math:`Unemployment~ rate =\frac{ unemployed}{labor~force}`\
 
 A Tour of the Labor Market in the United States
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. figure:: /Users/fengwencheng/CloudStation/2017宏观/Blanchard/Beamer/figures/b0701.png
+.. figure:: /figures/b0701.png
    :alt: 
 
 -  Population, Labor Force, Employment, and Unemployment in the United
