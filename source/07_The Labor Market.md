@@ -1,13 +1,16 @@
-# Ch7 The Labor Market
+# 第七章 劳动力市场
 
-## Tour of the Labor Market
+We have focused on the short run by assuming a constant price level in the IS-LM model.
 
-- We have focused on the short run by assuming a constant price level in the IS-LM model.
-- We now turn to the medium run and explore how prices and wages adjust over time, and how this in turn affects output.
-- The labor market is the center of that sequence of events.   
-- 解决全社会范围的大规模失业是宏观经济学的目标之一。就业是任何一个负责任的政府最关注的统计指标之一。
+We now turn to the medium run and explore how prices and wages adjust over time, and how this in turn affects output.
 
-### 劳动力市场统计
+The labor market is the center of that sequence of events.   
+
+解决全社会范围的大规模失业是宏观经济学的目标之一。就业是任何一个负责任的政府最关注的统计指标之一。
+
+---
+
+## 劳动力市场统计
 
 - Out of the total **population**, we can define **non-institutional civilian population** as those who are 16 or above (not inmates of institutions and not in the Armed Forces), and are either employed or unemployed
 - 16周岁以上成年人口(不含囚犯、军人): 就业、失业、非劳动力人口
@@ -18,11 +21,10 @@
 - $$Labor~force~participation~rate=\frac{labor force}{non-institutional~population}$$
 
 - 失业率unemployment rate：劳动力中没有被雇佣的比率
--  $$Unemployment~ rate =\frac{ unemployed}{labor~force}$$
+- $$Unemployment~ rate =\frac{ unemployed}{labor~force}$$
 
 
-
-### A Tour of the Labor Market  in the United States
+### 美国的劳动市场统计the Labor Market  in the United States
 
 ![b0701](/Users/fengwencheng/CloudStation/2017宏观/Blanchard/Beamer/figures/b0701.png)
 
@@ -34,18 +36,26 @@
 
 中国的人口和劳动力, 2015年数据 
 
--  人口 13.7462 亿
-- 经济活动人口(劳动力)  8.0091 亿
-  - (16周岁及以上，有劳动能力，参加或要求参加社会经济活动的人口。包括就业人员和失业人员。) 
-- 就业人员 7.7451 亿
-- 城镇人口 7.7116 亿
-- 城镇就业人员 4.0410 亿
-- 城镇登记失业人员 966 万
-- 城镇登记失业率 4.1\%
-  - 登记失业率：需要去当地社保局登记。
-  - 调查失业率：以居民调查为主，从2014年开始公布
+人口 13.7462 亿
 
-### Unemployment rate
+经济活动人口(劳动力)  8.0091 亿
+- (16周岁及以上，有劳动能力，参加或要求参加社会经济活动的人口。包括就业人员和失业人员。) 
+
+就业人员 7.7451 亿
+
+城镇人口 7.7116 亿
+
+城镇就业人员 4.0410 亿
+
+城镇登记失业人员 966 万
+
+城镇登记失业率 4.1\%
+- 登记失业率：需要去当地社保局登记。
+- 调查失业率：以居民调查为主，从2014年开始公布
+
+---
+
+## Unemployment rate
 
 
 
