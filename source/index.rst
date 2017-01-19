@@ -11,8 +11,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
    
-   00_intro
-   01_measurement
+   01_intro
+   02_measurement
    07_The Labor Market
    
    
