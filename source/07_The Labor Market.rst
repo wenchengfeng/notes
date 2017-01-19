@@ -1,5 +1,5 @@
 .. role:: math(raw)
-   :format: html latex
+   :format: latex html
 ..
 
 第七章 劳动力市场
@@ -130,30 +130,33 @@ Out of the labor force
 Movements in Unemployment}
 --------------------------
 
-| \\begin{frame}[t]\\frametitle{中国的失业率变化} 
+中国的失业率变化
+~~~~~~~~~~~~~~~~
+
 .. figure:: /figures/b06unemploy.png
-   :alt: 
+   :alt: 中国的失业率变化
 
-  \\caption{中国的失业率变化} \\end{figure}
 
-\\end{frame}
+-  When unemployment is high, workers are worse off in two ways:
 
-\\begin{frame}[t]\\frametitle{title} \\begin{itemize}
+   -  Employed workers face a higher probability of losing their job.
 
-.. code:: 
+   -  Unemployed workers face a lower probability of finding a job; or
+      they can expect to remain unemployed for a longer time.
 
-      When unemployment is high, workers are worse off in two ways:
-      Employed workers face a higher probability of losing their job.
-      Unemployed workers face a lower probability of finding a job; or they can expect to remain unemployed for a longer time.
+-  Two things are missing in our model so far
 
-      Two things are missing in our model so far
-      We have not dealt with the labor market at all: we do not know if there are people unemployed at the equilibrium income level
-      Also, the price level is “fixed” in our model
-      We have not explained how it is determined
-      Hence the Blanchard calls the IS-LM model a short-run model
-      We now move toward the medium run, at which price level and
+-  We have not dealt with the labor market at all: we do not know if
+   there are people unemployed at the equilibrium income level
 
-employment are determined
+-  Also, the price level is “fixed” in our model
+
+-   We have not explained how it is determined
+
+-  Hence the Blanchard calls the IS-LM model a short-run model
+
+-  We now move toward the medium run, at which price level and
+   employment are determined
 
 .. code:: 
 

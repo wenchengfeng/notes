@@ -80,29 +80,21 @@
 
 ## Movements in Unemployment}
 
-\begin{frame}[t]\frametitle{中国的失业率变化}
-​    
-\begin{figure}
- \centering
- \includegraphics[width=\textwidth]{b06unemploy}
+### 中国的失业率变化
+
+![b06unemploy](/Users/fengwencheng/Documents/notes/source/figures/b06unemploy.png)
+
  \caption{中国的失业率变化}
- \end{figure}
 
+- When unemployment is high, workers are worse off in two ways:
+  - Employed workers face a higher probability of losing their job.
+  - Unemployed workers face a lower probability of finding a job; or they can expect to remain unemployed for a longer time.
+- Two things are missing in our model so far
+- We have not dealt with the labor market at all: we do not know if there are people unemployed at the equilibrium income level
+- Also, the price level is “fixed” in our model
+-  We have not explained how it is determined
+- Hence the Blanchard calls the IS-LM model a short-run model
+- We now move toward the medium run, at which price level and employment are determined
 
-\end{frame}
-
-\begin{frame}[t]\frametitle{title}
-   \begin{itemize}
-      When unemployment is high, workers are worse off in two ways:
-      Employed workers face a higher probability of losing their job.
-      Unemployed workers face a lower probability of finding a job; or they can expect to remain unemployed for a longer time.
-    
-      Two things are missing in our model so far
-      We have not dealt with the labor market at all: we do not know if there are people unemployed at the equilibrium income level
-      Also, the price level is “fixed” in our model
-      We have not explained how it is determined
-      Hence the Blanchard calls the IS-LM model a short-run model
-      We now move toward the medium run, at which price level and
-employment are determined
       You consider the medium run when it is no longer appropriate to assume a
 constant price
