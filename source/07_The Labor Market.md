@@ -1,12 +1,9 @@
 # 第七章 劳动力市场
 
-We have focused on the short run by assuming a constant price level in the IS-LM model.
-
-We now turn to the medium run and explore how prices and wages adjust over time, and how this in turn affects output.
-
-The labor market is the center of that sequence of events.   
-
-解决全社会范围的大规模失业是宏观经济学的目标之一。就业是任何一个负责任的政府最关注的统计指标之一。
+- We have focused on the short run by assuming a constant price level in the IS-LM model.
+- We now turn to the medium run and explore how prices and wages adjust over time, and how this in turn affects output.
+- The labor market is the center of that sequence of events.   
+- 解决全社会范围的大规模失业是宏观经济学的目标之一。就业是任何一个负责任的政府最关注的统计指标之一。
 
 ---
 
@@ -30,28 +27,21 @@ The labor market is the center of that sequence of events.
 
 - Population, Labor Force, Employment, and Unemployment in the United States (in millions), 2014}
 - The unemployment rate is the ratio of the unemployed to the labor force, was 9.5/155.9 = 6.1\%.
-- ​
 
 ### 我国的劳动力市场统计
 
-中国的人口和劳动力, 2015年数据 
+- 中国的人口和劳动力, 2015年数据 
 
-人口 13.7462 亿
-
-经济活动人口(劳动力)  8.0091 亿
-- (16周岁及以上，有劳动能力，参加或要求参加社会经济活动的人口。包括就业人员和失业人员。) 
-
-就业人员 7.7451 亿
-
-城镇人口 7.7116 亿
-
-城镇就业人员 4.0410 亿
-
-城镇登记失业人员 966 万
-
-城镇登记失业率 4.1\%
-- 登记失业率：需要去当地社保局登记。
-- 调查失业率：以居民调查为主，从2014年开始公布
+- 人口 13.7462 亿
+- 经济活动人口(劳动力)  8.0091 亿
+- - (16周岁及以上，有劳动能力，参加或要求参加社会经济活动的人口。包括就业人员和失业人员。) 
+- 就业人员 7.7451 亿
+- 城镇人口 7.7116 亿
+- 城镇就业人员 4.0410 亿
+- 城镇登记失业人员 966 万
+- 城镇登记失业率 4.1\%
+- - 登记失业率：需要去当地社保局登记。
+  - 调查失业率：以居民调查为主，从2014年开始公布
 
 ---
 
@@ -69,31 +59,26 @@ The labor market is the center of that sequence of events.
 - The average duration of unemployment—the length of time people spend unemployed—is 2 to 3 months.
 - ​
 
-\begin{minipage}[t]{0.5\linewidth}
- \begin{figure}
- \centering
- \includegraphics[width=\textwidth]{b0702}
- \caption{7-2  Average Monthly Flows between Employment, Unemployment, and Nonparticipation in the United States, 1996 to 2014 (millions)}
- \end{figure}
- \end{minipage}%
- \begin{minipage}[t]{0.5\linewidth}
-\begin{itemize}
-  (1) The flows of workers in and out of employment are large. 
-  (2) The flows in and out of unemployment are large relative to the number of unemployed. 
-  (3) There are also large flows in and out of the labor force, much of it directly to and from employment.
-\end{itemize}
-\end{minipage}
-\end{frame}
+![b0702](/Users/fengwencheng/Documents/notes/source/figures/b0702.png)
+
+\caption{7-2  Average Monthly Flows between Employment, Unemployment, and Nonparticipation in the United States, 1996 to 2014 (millions)}
 
 
-\begin{frame}[t]\frametitle{Out of the labor force}
-    \begin{itemize}
-    	Many who are classified as “out of the labor force” are in fact discouraged workers—not actively looking for a job but will take it if they find one.
-      So, rather than the unemployment rate, economists sometimes focus on the employment rate—the ratio of employment to the population.
-    \end{itemize}
-\end{frame}
 
-\section{Movements in Unemployment}
+-  (1) The flows of workers in and out of employment are large. 
+
+
+-   (2) The flows in and out of unemployment are large relative to the number of unemployed. 
+-   (3) There are also large flows in and out of the labor force, much of it directly to and from employment.
+
+### Out of the labor force
+
+- Many who are classified as “out of the labor force” are in fact discouraged workers—not actively looking for a job but will take it if they find one.
+-   So, rather than the unemployment rate, economists sometimes focus on the employment rate—the ratio of employment to the population.
+
+---
+
+## Movements in Unemployment}
 
 \begin{frame}[t]\frametitle{中国的失业率变化}
 ​    
