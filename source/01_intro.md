@@ -56,7 +56,8 @@ You may not know it, but your everyday life is filled with macroeconomics in act
 
 ![election](/figures/election.png)
 
-宏观政策调控每个人的行为
+- 宏观政策调控每个人的行为
+
 
 - 在利率很低时，物价指数也向下降，说明经济形势已经变“冷”了。企业、银行和政府的日子就都不好过了......，政府会怎么办?
   - 1  鼓励消费
@@ -74,7 +75,7 @@ You may not know it, but your everyday life is filled with macroeconomics in act
 
 ## 宏观经济学的基本内容
 
-- 宏观经济学是研究国民经济的总量行为及其规律的经济学科，着重考察和说明<u>国民收入</u>、<u>就业水平</u>、<u>价格水平</u>等经济总量是如何决定的、如何波动 的等问题。
+- 宏观经济学是研究国民经济的总量行为及其规律的经济学科，着重考察和说明<u>国民收入</u>、<u>就业水平</u>、<u>价格水平</u>等**经济总量**是如何决定的、如何波动 的等问题。
 
   ​				
   ​			
