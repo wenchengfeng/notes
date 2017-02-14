@@ -14,6 +14,7 @@ Contents:
    01_intro
    02_measurement
    07_The Labor Market
+   07_appendix
    
    
 Indices and tables
