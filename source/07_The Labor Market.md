@@ -81,13 +81,45 @@
 
 ![](/figures/b06unemploy.png)
 
--   When unemployment is high, workers are worse off in two ways:
-    -   Employed workers face a higher probability of losing their job.
-    -   Unemployed workers face a lower probability of finding a job; or they can expect to remain unemployed for a longer time.
--   Two things are missing in our model so far
+-   ​
+
+### Movements in the U.S. Unemployment Rate, 1948–2014
+
+  
+
+- When unemployment is high, workers are worse off in two ways:
+  - Employed workers face a higher probability of losing their job.
+  - Unemployed workers face a lower probability of finding a job; or they can expect to remain unemployed for a longer time.
+- Two things are missing in our model so far
+- We have not dealt with the labor market at all: we do not know if there are people unemployed at the equilibrium income level
+- Also, the price level is “fixed” in our model
+- We have not explained how it is determined
+- Hence the Blanchard calls the IS-LM model a short-run model
+- We now move toward the medium run, at which price level and employment are determined
+- You consider the medium run when it is no longer appropriate to assume a constant price
+
+## Wage Determination
+
+### Move toward the medium run
+
+-  Two things are missing in our model so far
 -   We have not dealt with the labor market at all: we do not know if there are people unemployed at the equilibrium income level
 -   Also, the price level is “fixed” in our model
 -   We have not explained how it is determined
--   Hence the Blanchard calls the IS-LM model a short-run model
--   We now move toward the medium run, at which price level and employment are determined
--   You consider the medium run when it is no longer appropriate to assume a constant price
+-   Hence the Blanchard calls the IS-LM model a \textbf{short-run} model
+-   We now move toward the \textbf{medium run}, at which price level and  employment are determined
+- You consider the medium run when it is no longer appropriate to assume a constant price.
+
+      \item For example, you are looking at a horizon of quarters or years instead of months
+      \item Consider the following equation for the nominal wage
+\[W=P^eF(u,z)\]
+      \item $W$ is the \textcolor{red}{\textbf{nominal wage}}
+      \item $P^e$ is the \textcolor{red}{\textbf{expected price level}}
+      \item $u$ is the \textcolor{red}{\textbf{unemployment rate}}
+      \item $z$ is a “catch-all” variable that includes anything else that affects the
+nominal wage
+      \item We assume that $\frac{dF}{du}<0$ and $\frac{dF}{dz}>0$
+      \item That is, higher $u$ leads to a lower $F$, and higher $z$ leads to a higher $F$.
+    \end{itemize} 
+
+\end{frame}
